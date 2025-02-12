@@ -1,0 +1,397 @@
+{
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+//████████████████████████████████████  
+  "lives": [
+//{"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/jar/okpng.png;md5;2b4273f56c56bce55e472a26dd4a4036",
+    {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739176143885/okpng.png",
+//    {
+      "name": "洪宇-YY轮播",
+      "type": 3,
+      "api": "csp_FeiyangGuard",
+      "url": "yylunbo.m3u",
+      "timeout": 10,
+      "ua": "okhttp/3.15"
+//	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739176143885/okpng.png;md5;2b4273f56c56bce55e472a26dd4a4036"
+    },
+    
+//████████████████████████████████████    
+    
+    
+    
+//    {"jar":"https://raw.githubusercontent.com/canghaixiao369/zy/f94bdb1e03559c93c4367b55a38ca605bf06dd96/jar/pg.jar",
+            {
+            	"name": "洪宇虎牙一起看",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		
+
+			},
+{
+				"name": "洪宇斗鱼一起看",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+{
+				"name": "洪宇yy",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},		    
+
+
+
+
+
+
+
+//████████████████████████████████████
+
+
+
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "肥羊直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "AI直播",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "AI直播+",
+            "type": 0,
+            "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 2,
+            "timeout": 10
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "电视Live",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+            "playerType": 2,
+            "timeout": 10
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "网络Live",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
+            "playerType": 2,
+            "timeout": 10
+        },
+{"jar":"https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "name": "范明明",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+
+
+
+
+
+//████████████████████████████████████
+
+
+			{
+				"name": "洪宇洪宇CIPTV",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+
+
+
+
+
+//█████████████████████████████████████
+    {
+      "name": "TV",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    }
+  ],
+  
+  
+//█████████████████████████████████████  
+  
+  "logo": "https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/0924.gif",
+  
+//█████████████████████████████████████
+  "sites": [
+
+   {"key":"TGDouban","name":"🔥旺强影视🔥","type":3,"api":"csp_TGDouban","timeout":120, 
+			"ext":{
+				"token":"./lib1/tokenm电视.json",
+				"json":"./lib1/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://xzqcsa.iepose.cn",
+				"tgsearch_media_url":"http://xzqcsa.iepose.cn",
+				"channellist":"ucpanpan|1000,guaguale115|1000,yszysj|1000,tgsearchers|1000,ydypzyfx|1000,wpzyhj|1000",
+				"proxy":"noproxy",
+				"douban":"./lib1/douban.json",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+
+
+
+
+        {
+            "key": "豆瓣",
+            "name": "加载中…",
+            "type": 3,
+            "api": "csp_Douban",
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "searchable": 0
+        },
+        {
+            "key": "厂长弹幕",
+            "name": "厂长｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "天天弹幕",
+            "name": "天天｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+            }
+        },
+        {
+            "key": "热播弹幕",
+            "name": "热播｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YucmJvdHYuY24="
+            }
+        },
+        {
+            "key": "浪酷弹幕",
+            "name": "浪酷｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        },
+        {
+            "key": "糯米弹幕",
+            "name": "糯米｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "文才弹幕",
+            "name": "文才｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "三六零｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器人｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "小苹果弹幕",
+            "name": "小苹果｜弹幕",
+            "type": 3,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "key": "哔哩弹幕",
+            "name": "哔哩｜弹幕",
+            "type": 3,
+            "api": "csp_Bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      "jar": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+            },
+            "timeout": 10
+        },
+
+//████████████████████████████████████
+
+
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vbXkuemhvdWppZTIxOC50b3A6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "丫仙女",
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739176143885/okpng.png;md5;2b4273f56c56bce55e472a26dd4a4036",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa",
+      "searchable": 1
+    },
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vbXkuemhvdWppZTIxOC50b3A6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "AList",
+      "changeable": 0,
+      "jar": "http://my.zhoujie218.top:4567/spring.jar",
+      "api": "csp_AList",
+      "type": 3,
+      "key": "csp_AList",
+      "searchable": 1
+    }
+
+//████████████████████████████████████
+  ],
+//  "spider": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/tv.jar"
+  
+  "spider": "https://gitee.com/yu_shan_fei/zby/raw/master/tvbox/pg.jar"  
+  
+  
+}
